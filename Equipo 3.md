@@ -102,7 +102,7 @@ Por otro lado, la idea de implementar este tipo de proyecto con estas especifica
 |          RF15          | El sistema contará con un botón para direccionarnos al formulario para agregar proveedores                                                                      |
 
 ### Historias de Usuario.
-
+[Historias de usuario]()
 
 <!-- Diagrama de Casos de Uso -->
 ### Diagrama Casos de Uso.
@@ -197,7 +197,6 @@ En ésta sección se describe  los artefactos generados en base a la solución.
 
 <!-- Iniciando -->
 ## Iniciando
-Iniciando.
 
 <!-- Requisitos -->
 ### Requisitos
@@ -214,9 +213,10 @@ VS Code)
 
 <!-- Instalación -->
 ### Instalacion
-
+[Manual de instalación de la aplicación]()
 
 ## Guias
+[Guía de modulo Proveedores e inventario]()
 
 
 ## contribucion
