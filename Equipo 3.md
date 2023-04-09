@@ -110,7 +110,6 @@ Por otro lado, la idea de implementar este tipo de proyecto con estas especifica
 
 <!-- Diseño del proyecto -->
 ## Diseño de la Solución.
-En ésta sección se indicará los artefactos generados en base a la solución.
 
 <!-- Modelo Relacional -->
 ### Propuesta del modelo de la base de datos.
