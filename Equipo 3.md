@@ -124,6 +124,8 @@ En ésta sección se indicará los artefactos generados en base a la solución.
 ### Diagrama de Componentes.
 ![Diagrama de componentes](https://user-images.githubusercontent.com/84553507/228354888-7a418b03-1c74-4af1-9b8e-8032d78ed47e.jpeg)
 
+### Diagrama de actividades.
+[Diagrama de actividades]()
 
 <!-- Implementación del proyecto -->
 ## Implementación.
