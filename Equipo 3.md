@@ -102,13 +102,6 @@ Por otro lado, la idea de implementar este tipo de proyecto con estas especifica
 |          RF14          | La información de los proveedores se visualizará en una interfaz gráfica distinta a donde  se encuentran los proveedores                                        |
 |          RF15          | El sistema contará con un botón para direccionarnos al formulario para agregar proveedores                                                                      |
 ### Requerimientos no funcionales.
-* Usabilidad: El sistema se ejecuta en un entorno web por lo que se requiere contar con un explorador de internet para acceder a la aplicación el sistema podrá ser visualizado en Mozilla Firefox 3 o superior, internet Explorer 7 o superior, safari, Chrome. El sistema será capaz de poder ser ejecutado en un equipo con una resolución mínima de 1024x768.
-* Confiabilidad: El sistema en producción que presente alguna falla de base de datos o servidor se recuperará en un lapso no mayor a 6 horas después de ser reportado el fallo.
-* Confiabilidad: El sistema en producción que presente alguna falla de base de datos o servidor se recuperará en un lapso no mayor a 6 horas después de ser reportado el fallo. Entrar al sistema, máximo 10 segundos. Consultar datos, máximo 10 segundos. El sistema está desarrollado para uso exclusivo para usuarios registrados.
-El sistema estará alojado de manera local en el equipo de cómputo de los integrantes del equipo 3 de integradora.
-* Soporte: La implementación y configuración técnica del sistema se llevará a cabo por los integrantes del equipo 3 de integradora.
-* Seguridad: Las reglas de acceso al sistema podrán ser manipuladas por el administrador del sistema. La contraseña del usuario estará encriptada.
-* Restricciones de diseño y construcción: El sistema manejara los estándares de codificación definidas para el lenguaje de programación JavaScript y el Framework Angular. Utilizando el SGBD NoSQL MongoDB.
 
 
 ### Historias de Usuario.
