@@ -86,7 +86,7 @@ Por otro lado, la idea de implementar este tipo de proyecto con estas especifica
 
 | Clave de requerimiento |                                                                           Descripción                                                                           |
 |:----------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|          RF01          | El sistema permitirá agregar nuevos proveedores                                                                                                                 |
+|          RF01          | El sistema permitirá agregar nuevos proveedores a la base de datos                                                                                                                 |
 |          RF02          | El sistema permitirá actualizar la información de los proveedores                                                                                               |
 |          RF03          | El sistema permitirá eliminar cualquier proveedor por su nombre                                                                                                 |
 |          RF04          | El sistema permitirá consultar datos de los proveedores por medio de filtros                                                                                    |
