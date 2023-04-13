@@ -65,7 +65,7 @@ Se estima que el costo del desarrollo de este proyecto sea de $30, 720.00 Incluy
 <!-- Objetivos -->
 ### Objetivos.
 #### Objetivos Generales del proyecto.
-Nuestro proyecto tiene como propósito principal desarrollar un sistema informático para un gimnasio desde cero, basándonos en las necesidades y requerimientos de la empresa iTTiVA. Cumpliendo con los requerimientos propuestos en la documentación y entregando un sistema completo y funcional en el tiempo estimado.
+El objetivo general de nuestro proyecto es desarrollar el módulo de proveedores de un sistema web que permita al administrador gestionar los proveedores y productos del gimnasio Spartacus Fitness Center, permitiendo consultar sus datos, agregar un nuevo producto o proveedor, eliminar cualquiera de estos o editar su información para mejorar el control de gestión de este servicio del gimnasio.
 
 #### Objetivos Especificos.
 Por otro lado, la idea de implementar este tipo de proyecto con estas especificaciones tiene como objetivo aprender y llevarse experiencia y conocimiento que nos aportará herramientas para ser empleadas en un futuro en nuestra carrera profesional.
@@ -103,7 +103,7 @@ Por otro lado, la idea de implementar este tipo de proyecto con estas especifica
 |          RF15          | El sistema contará con un botón para direccionarnos al formulario para agregar proveedores                                                                      |
 
 ### Historias de Usuario.
-[Historias de usuario]()
+[Historias de usuario](https://github.com/ArmandoxxXD/Documentacion/blob/32d4da70f409c6f1951b23f98c1b84ee1fc1fc2a/Documentaci%C3%B3n/Historias%20de%20usuario.png)
 
 <!-- Diagrama de Casos de Uso -->
 ### Diagrama Casos de Uso.
@@ -125,7 +125,7 @@ Por otro lado, la idea de implementar este tipo de proyecto con estas especifica
 ![Diagrama de componentes](https://user-images.githubusercontent.com/84553507/228354888-7a418b03-1c74-4af1-9b8e-8032d78ed47e.jpeg)
 
 ### Diagrama de actividades.
-[Diagrama de actividades]()
+[Diagrama de actividades](https://github.com/ArmandoxxXD/Documentacion/blob/32d4da70f409c6f1951b23f98c1b84ee1fc1fc2a/Documentaci%C3%B3n/Diagrama%20de%20actividades.pdf)
 
 <!-- Implementación del proyecto -->
 ## Implementación.
