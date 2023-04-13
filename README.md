@@ -221,10 +221,7 @@ VS Code)
 
 <!-- Instalación -->
 ### Instalacion
-[Manual de instalación de la aplicación](https://github.com/ArmandoxxXD/Documentacion/blob/90d381f38896dfb31b3b9d9396125b35485439d4/Documentaci%C3%B3n/Instalaci%C3%B3n%20de%20la%20aplicaci%C3%B3n.pdf)
-
-## Guias
-[Guía de modulo Proveedores e inventario](https://github.com/ArmandoxxXD/Documentacion/blob/5bf5de83875d2ba5374c1cac6187ddcf57fd6b5d/Documentaci%C3%B3n/GuiaDeModulo.pdf)
+[Manual de instalación de la aplicación]
 
 
 ## contribucion
