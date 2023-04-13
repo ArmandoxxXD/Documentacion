@@ -88,15 +88,15 @@ Por otro lado, la idea de implementar este tipo de proyecto con estas especifica
 |:----------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 |          RF01          | El sistema permitirá agregar nuevos proveedores a la base de datos                                                                                                                 |
 |          RF02          | El sistema permitirá actualizar la información de los proveedores existentes en la base de datos                                                                                              |
-|          RF03          | El sistema permitirá eliminará cualquier proveedor por su nombre existentes en la base de datos                                                                                                 |
-|          RF04          | El sistema permitirá consultar datos de los proveedores por medio de filtros (Tipo producto, Proveedor, y por nombres)                                                                                  |
+|          RF03          | El sistema permitirá eliminar cualquier proveedor por su nombre existentes en la base de datos                                                                                                 |
+|          RF04          | El sistema permitirá consultar datos de los proveedores por medio de filtros                                                                                    |
 |          RF05          | El sistema aloja la información de los proveedores: Id Proveedor Nombre del Proveedor Teléfono Correo electrónico  Ubicación Productos                          |
 |          RF06          | El sistema no permitirá tener registros duplicados (dos proveedores con el mismo nombre)                                                                        |
 |          RF07          | Los proveedores se registran con al menos un producto                                                                                                           |
 |          RF08          | Los proveedores no podrán tener campos vacíos                                                                                                                   |
 |          RF09          | El sistema enviará una notificación cuando se realice una inserción                                                                                             |
-|          RF10          | El sistema solo permitirá ingresar a un usuario registrado en la base de datos                                                                                                      |
-|          RF11          | El administrador es el único que puede registrar usuarios con cualquier rol                                                                                                       |
+|          RF10          | El sistema solo permitirá ingresar a un usuario registrado                                                                                                      |
+|          RF11          | El administrador es el único que puede registrar usuarios                                                                                                       |
 |          RF12          | El sistema contará con un formulario para registrar usuarios solo si somos el administrador  y podremos ingresar a tal formulario desde una barra de navegación |
 |          RF13          | El sistema mostrará los proveedores en una interfaz gráfica donde podremos acceder a su  información o eliminarlo con un botón                                  |
 |          RF14          | La información de los proveedores se visualizará en una interfaz gráfica distinta a donde  se encuentran los proveedores                                        |
@@ -123,7 +123,7 @@ El sistema estará alojado de manera local en el equipo de cómputo de los integ
 
 <!-- Modelo Relacional -->
 ### Propuesta del modelo de la base de datos.
-![coleccion]![image](https://user-images.githubusercontent.com/108047890/231825453-6e16933b-990a-49d1-8186-36d41b7db0d9.png)
+![coleccion]![image](https://user-images.githubusercontent.com/108047890/231825747-b3d5d90e-2b50-41a9-9c4e-e95afcdec6ea.png)
 
 <!-- Diagrama de Clases -->
 ### Diagrama de Clases.
@@ -143,20 +143,16 @@ El sistema estará alojado de manera local en el equipo de cómputo de los integ
 <!-- Estándares de Codificación -->
 ### Estándares Codificación.
 #### Front-End.
-* Utilizar HTML5, CSS3 y JavaScript como versiones principales de lenguaje.
-* Utilizar los frameworks Angular y Bootstrap.
-* Identar el código HTML con dos espacios para mejorar la legibilidad.
-* Utilizar atributos alt en las imágenes para mejorar la accesibilidad del sitio.
-* Hacer uso de los colores de la plantilla proporcionada por iTTiVA.
-* Indentar el código CSS con dos espacios para mejorar la legibilidad.
-* Utilizar técnicas de responsive design para asegurar que el sitio se vea bien en diferentes tamaños de pantalla.
-* Las pantallas contendras una pantalla de carga al redireccionar a otra.
-* Se hara el uso de clases de estilo bootstrap en los componentes.
-* Se hara uso de ids para identificar componentes.
+* Colocar rutas de Apis-Rest en el archivo envioroment
+* Hacer un service por cada modulo donde se haran las peticiones a las Apis-Rest
+* Las clases que estaran en la carpeta modelos
+* Dentro de components se tendra una carpeta que divira cada modulo y dentro de ella esatran todos sus componentes
+* Se evitara hacer uso del any y se typean funciones y variables
 
 #### Back-End.
-* Utilizar MongoDB como sistema gestor de base de datos.
-* Utilizar Spring Boot.
+* Nombre de packetes en Mayuscula
+* Estrcutura de modulos dividida en controller,dto,entity,repositoy y service
+* Todos los atrubutos de clases son privados 
 
 <!-- Arquitectura MVC y Middleware -->
 ### Arquitectura.
