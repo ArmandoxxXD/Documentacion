@@ -206,19 +206,6 @@ En ésta sección se describe  los artefactos generados en base a la solución.
 <!-- Iniciando -->
 ## Iniciando
 
-<!-- Requisitos -->
-### Requisitos
-* Poseer un equipo informático con un sistema operativo windows 10 o windows 11.
-* Tener al menos 100GB de almacenamiento libre.
-* Tener una memoria RAM de al menos 8GB.
-* Estar conectado a una red de internet.
-* Tener instalado Node.Js.
-* Tener instalado Git.
-* Tener instalado Spring Boot (En nuestro caso una extensión para poder usarla en 
-VS Code)
-* Tener instalado Angular.
-* Contar con una versión instalada del SDK de Java con la versión 17 SE
-
 <!-- Instalación -->
 ### Instalacion
 [Manual de instalación](https://github.com/ArmandoxxXD/Documentacion/blob/e73a15d44c2321e3b4b67188822887a8847936b7/Documentaci%C3%B3n/Gu%C3%ADa%20de%20uso%20del%20m%C3%B3dulo%20de%20proveedores%20y%20sus%20productos.pdf)
