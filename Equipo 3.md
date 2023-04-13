@@ -122,7 +122,8 @@ Por otro lado, la idea de implementar este tipo de proyecto con estas especifica
 
 <!-- Diagrama de Componentes -->
 ### Diagrama de Componentes.
-![Diagrama de componentes](https://user-images.githubusercontent.com/84553507/228354888-7a418b03-1c74-4af1-9b8e-8032d78ed47e.jpeg)
+![Diagrama de componentes](https://user-images.githubusercontent.com/84553507/231671159-a68f2d39-19df-4b06-b3a7-5b1f55c4f5b3.jpg)
+
 
 ### Diagrama de actividades.
 [Diagrama de actividades](https://github.com/ArmandoxxXD/Documentacion/blob/32d4da70f409c6f1951b23f98c1b84ee1fc1fc2a/Documentaci%C3%B3n/Diagrama%20de%20actividades.pdf)
