@@ -87,8 +87,8 @@ Por otro lado, la idea de implementar este tipo de proyecto con estas especifica
 | Clave de requerimiento |                                                                           Descripción                                                                           |
 |:----------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 |          RF01          | El sistema permitirá agregar nuevos proveedores a la base de datos                                                                                                                 |
-|          RF02          | El sistema permitirá actualizar la información de los proveedores                                                                                               |
-|          RF03          | El sistema permitirá eliminar cualquier proveedor por su nombre                                                                                                 |
+|          RF02          | El sistema permitirá actualizar la información de los proveedores existentes en la base de datos                                                                                              |
+|          RF03          | El sistema permitirá eliminar cualquier proveedor por su nombre existentes en la base de datos                                                                                                 |
 |          RF04          | El sistema permitirá consultar datos de los proveedores por medio de filtros                                                                                    |
 |          RF05          | El sistema aloja la información de los proveedores: Id Proveedor Nombre del Proveedor Teléfono Correo electrónico  Ubicación Productos                          |
 |          RF06          | El sistema no permitirá tener registros duplicados (dos proveedores con el mismo nombre)                                                                        |
