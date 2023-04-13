@@ -123,7 +123,7 @@ El sistema estará alojado de manera local en el equipo de cómputo de los integ
 
 <!-- Modelo Relacional -->
 ### Propuesta del modelo de la base de datos.
-![coleccion](https://user-images.githubusercontent.com/84553507/228043655-994cc712-7dc4-49ba-9dc5-d4501e72f40f.jpg)
+![coleccion]![image](https://user-images.githubusercontent.com/108047890/231825453-6e16933b-990a-49d1-8186-36d41b7db0d9.png)
 
 <!-- Diagrama de Clases -->
 ### Diagrama de Clases.
