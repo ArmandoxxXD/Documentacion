@@ -116,7 +116,8 @@ El sistema estará alojado de manera local en el equipo de cómputo de los integ
 
 <!-- Diagrama de Casos de Uso -->
 ### Diagrama Casos de Uso.
-![Diagrama casos de uso](https://user-images.githubusercontent.com/84553507/228041533-b1d7d486-96fd-4240-8e6a-c99c6b5e7e36.jpg)
+![Diagrama de casos de uso](https://user-images.githubusercontent.com/84553507/232261134-b7f4b07e-4efb-44a8-9238-83fc2e2f5bc9.jpeg)
+
 
 <!-- Diseño del proyecto -->
 ## Diseño de la Solución.
