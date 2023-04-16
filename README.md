@@ -187,8 +187,8 @@ El sistema estará alojado de manera local en el equipo de cómputo de los integ
 
 
 ## contribucion
-Grupo GDS0452
-Ing Gabriel Barrón Rodríguez
+* Grupo GDS0452
+* Ing Gabriel Barrón Rodríguez
 
 ## Contacto
 * Erikmendex840@gmail.com 4181552063
