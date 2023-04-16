@@ -171,7 +171,6 @@ El sistema estará alojado de manera local en el equipo de cómputo de los integ
 
 <!-- Pruebas proyecto -->
 ## Pruebas.
-En ésta sección se describe  los artefactos generados en base a la solución.
 
 <!-- Casos de prueba -->
 ### Casos de prueba.
