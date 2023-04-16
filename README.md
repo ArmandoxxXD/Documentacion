@@ -132,7 +132,8 @@ El sistema estará alojado de manera local en el equipo de cómputo de los integ
 
 <!-- Diagrama de Componentes -->
 ### Diagrama de Componentes.
-![Diagrama de componentes](https://user-images.githubusercontent.com/84553507/231671159-a68f2d39-19df-4b06-b3a7-5b1f55c4f5b3.jpg)
+![Diagrama de componentess](https://user-images.githubusercontent.com/84553507/232261612-21d1323f-77a8-4ed6-a5ea-85b3b5841526.jpeg)
+
 
 
 ### Diagrama de actividades.
