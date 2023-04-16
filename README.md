@@ -76,7 +76,7 @@ Por otro lado, la idea de implementar este tipo de proyecto con estas especifica
 
 <!-- Diagrama Gantt -->
 ### Diagrama Gantt.
-![Gantt](https://user-images.githubusercontent.com/84553507/228038870-0977b2e9-473a-448b-82a1-5bac616af003.png)
+[Diagrama de Gant](https://github.com/ArmandoxxXD/Documentacion/blob/146e9bc986c4007bc5a6f0fe05c009c83c3e0365/Documentaci%C3%B3n/Diagrama%20de%20gant.xlsx)
 
 <!-- Análisis del proyecto -->
 ## Análisis de la Solución.
@@ -188,14 +188,11 @@ En ésta sección se describe  los artefactos generados en base a la solución.
 
 ## contribucion
 Grupo GDS0452
-Profesor Gabriel Barrón Rodríguez
-
-## Licencia
-Licencia.
+Ing Gabriel Barrón Rodríguez
 
 ## Contacto
-Erikmendex840@gmail.com 4181552063
-mamojose58@gmail.com    4181522619
+* Erikmendex840@gmail.com 4181552063
+* mamojose58@gmail.com    4181522619
 
 ## Participantes
 * [Erik Daniel Méndez Enríquez]()
