@@ -174,33 +174,7 @@ En ésta sección se describe  los artefactos generados en base a la solución.
 
 <!-- Casos de prueba -->
 ### Casos de prueba.
-#### Inicar sesión.
-![1](https://user-images.githubusercontent.com/84553507/229188017-d1efa12c-0069-4e6b-b00d-1961fdb85abf.png)
-
-
-#### Agregar Proveedor.
-![2](https://user-images.githubusercontent.com/84553507/229188140-5c1f3b4e-e60b-48dd-9643-bead1df84f5f.png)
-
-
-#### Editar Proveedor.
-![3](https://user-images.githubusercontent.com/84553507/229188164-a1033cc0-75f3-40de-b0cb-3c46f994c480.png)
-
-
-#### Eliminar Proveedor.
-![4](https://user-images.githubusercontent.com/84553507/229188186-b912e275-5eeb-45e2-bf7c-eb769429b289.png)
-
-
-#### Agregar Producto.
-![5](https://user-images.githubusercontent.com/84553507/229188201-97d6590f-277e-40e3-98d8-7483ccef3a50.png)
-
-
-#### Editar Producto.
-![6](https://user-images.githubusercontent.com/84553507/229188223-881db2cb-35c8-4d0f-b83b-777e3d236be2.png)
-
-
-#### Eliminar Producto.
-![7](https://user-images.githubusercontent.com/84553507/229188261-864b8888-574c-4fd3-8055-e762443f6fa7.png)
-
+[Casos de Prueba Módulo Proveedores](https://github.com/ArmandoxxXD/Documentacion/blob/76947a512bd9b42ccba31cf0e9527e125fec1167/Documentaci%C3%B3n/Casos%20de%20prueba%20modulo%20proveedores.xls)
 
 
 <!-- Iniciando -->
