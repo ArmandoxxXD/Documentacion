@@ -193,6 +193,8 @@ Ing Gabriel Barrón Rodríguez
 ## Contacto
 * Erikmendex840@gmail.com 4181552063
 * mamojose58@gmail.com    4181522619
+* torresreyessamel2@gmail.com 4181846370
+* navamiguel416@gmail.com 4181765800
 
 ## Participantes
 * [Erik Daniel Méndez Enríquez]()
